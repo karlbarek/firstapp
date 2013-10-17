@@ -1,0 +1,22 @@
+{
+	"target": "simulator",
+	"deployType": "development",
+	"deviceFamily": "iphone",
+	"iosSdkPath": "/Users/karlbarek/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA/iphone",
+	"appGuid": "ed331552-02bf-4d20-b636-29977149ab56",
+	"tiCoreHash": "77157e1ffaec640cf559356a147b6a4c",
+	"modulesHash": "d41d8cd98f00b204e9800998ecf8427e",
+	"gitHash": "f7592c1",
+	"name": "FirstProject",
+	"id": "com.pixels2bytes.firstapp",
+	"analytics": true,
+	"publisher": "karlbarek",
+	"url": "http://",
+	"version": "1.0",
+	"description": "not specified",
+	"copyright": "2013 by karlbarek",
+	"guid": "ed331552-02bf-4d20-b636-29977149ab56",
+	"skipJSMinification": true,
+	"forceCopy": false,
+	"forceCopyAll": false
+}
